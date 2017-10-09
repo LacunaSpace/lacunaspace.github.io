@@ -1,0 +1,48 @@
+body {
+    width: 100%;
+    min-height: 100vh;
+    background: -webkit-linear-gradient(top, rgb(125, 53, 198) 0%, rgb(77, 43, 175) 89%, rgb(70, 42, 172) 100%);
+background: -o-linear-gradient(top, rgb(125, 53, 198) 0%, rgb(77, 43, 175) 89%, rgb(70, 42, 172) 100%);
+background: -ms-linear-gradient(top, rgb(125, 53, 198) 0%, rgb(77, 43, 175) 89%, rgb(70, 42, 172) 100%);
+background: -moz-linear-gradient(top, rgb(125, 53, 198) 0%, rgb(77, 43, 175) 89%, rgb(70, 42, 172) 100%);
+background: linear-gradient(to bottom, rgb(125, 53, 198) 0%, rgb(77, 43, 175) 89%, rgb(70, 42, 172) 100%);
+    font-family: 'Ubuntu',sans-serif;
+}
+
+.logo {
+    width: 50%;
+    max-width: 16rem;
+    margin: auto;
+    display: block;
+    padding-top: 4rem;
+}
+
+h1 {
+    margin: auto;
+    display: block;
+    width: 20rem;
+    text-align: center;
+    margin-top: 8rem;
+    color: white;
+    letter-spacing: .4px;
+}
+
+.bottom {
+    position: absolute;
+    bottom: 4rem;
+    width: 100vw;
+}
+
+a {
+    font-family: Ubuntu;
+    font-style: italic;
+    font-weight: 100;
+    bottom: 4rem;
+    margin: auto;
+    display: block;
+    letter-spacing: 1.2px;
+    width: auto;
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}
