@@ -1,11 +1,7 @@
 body {
     width: 100%;
     min-height: 100vh;
-    background: -webkit-linear-gradient(top, rgb(125, 53, 198) 0%, rgb(77, 43, 175) 89%, rgb(70, 42, 172) 100%);
-background: -o-linear-gradient(top, rgb(125, 53, 198) 0%, rgb(77, 43, 175) 89%, rgb(70, 42, 172) 100%);
-background: -ms-linear-gradient(top, rgb(125, 53, 198) 0%, rgb(77, 43, 175) 89%, rgb(70, 42, 172) 100%);
-background: -moz-linear-gradient(top, rgb(125, 53, 198) 0%, rgb(77, 43, 175) 89%, rgb(70, 42, 172) 100%);
-background: linear-gradient(to bottom, rgb(125, 53, 198) 0%, rgb(77, 43, 175) 89%, rgb(70, 42, 172) 100%);
+    background: white;
     font-family: 'Ubuntu',sans-serif;
 }
 
@@ -23,7 +19,7 @@ h1 {
     width: 20rem;
     text-align: center;
     margin-top: 8rem;
-    color: white;
+    color: #211357;
     letter-spacing: .4px;
 }
 
@@ -44,5 +40,5 @@ a {
     width: auto;
     text-align: center;
     text-decoration: underline;
-    color: white;
+    color: #211357;
 }
