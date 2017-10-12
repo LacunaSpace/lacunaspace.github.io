@@ -1,44 +1,49 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
 body {
-    width: 100%;
-    min-height: 100vh;
+    width: 100vw;
+    min-height: 95vh;
     background: white;
     font-family: 'Ubuntu',sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+@media screen and (min-width: 1000px) {
+    .logo {
+        max-width: 20rem;
+    }
 }
 
 .logo {
-    width: 50%;
-    max-width: 16rem;
+    width:60%;
     margin: auto;
     display: block;
-    padding-top: 4rem;
 }
 
 h1 {
     margin: auto;
     display: block;
-    width: 20rem;
+    width: auto;
     text-align: center;
-    margin-top: 8rem;
-    color: #211357;
+    color: #4a168d;
     letter-spacing: .4px;
-}
-
-.bottom {
-    position: absolute;
-    bottom: 4rem;
-    width: 100vw;
 }
 
 a {
     font-family: Ubuntu;
     font-style: italic;
     font-weight: 100;
-    bottom: 4rem;
-    margin: auto;
     display: block;
     letter-spacing: 1.2px;
     width: auto;
     text-align: center;
     text-decoration: underline;
-    color: #211357;
+    color: #4a168d;
 }
