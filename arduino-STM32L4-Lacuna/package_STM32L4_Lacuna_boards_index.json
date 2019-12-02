@@ -17,9 +17,9 @@
           "help": {
             "online": "https://github.com/LacunaSpace/arduino-STM32L4/tree/lacuna"
           },
-          "url": "https://github.com/LacunaSpace/arduino-STM32L4/archive/0.0.28-lacuna.zip",
-          "archiveFileName": "arduino-STM32L4-0.0.28-lacuna.zip",
-          "checksum": "MD5:9d9927ea74e47549233d79203fd9988e",
+          "url": "https://github.com/LacunaSpace/arduino-STM32L4/archive/0.0.28-lacuna.tar.gz",
+          "archiveFileName": "arduino-STM32L4-0.0.28-lacuna.tar.gz",
+          "checksum": "MD5:59f6a961303507b089b78ababd7fdada",
           "size": "16902898",
           "boards": [
             {"name": "Lacuna-LS200"},
