@@ -19,7 +19,7 @@
           },
           "url": "https://github.com/LacunaSpace/arduino-STM32L4/archive/0.0.28-lacuna.tar.gz",
           "archiveFileName": "arduino-STM32L4-0.0.28-lacuna.tar.gz",
-          "checksum": "MD5:59f6a961303507b089b78ababd7fdada",
+          "checksum": "MD5:0edf260ab4c02bb34621d8dca177727e",
           "size": "16902898",
           "boards": [
             {"name": "Lacuna-LS200"},
