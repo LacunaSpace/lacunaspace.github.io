@@ -1,0 +1,47 @@
+{
+  "packages": [
+    {
+      "name": "lacunaspace",
+      "maintainer": "Tlera Corp/Lacuna Space",
+      "websiteURL": "https://github.com/LacunaSpace/arduino-STM32L4/tree/lacuna",
+      "email": "info@lacuna.space",
+      "help": {
+        "online": "https://github.com/LacunaSpace/arduino-STM32L4/tree/lacuna"
+      },
+      "platforms": [
+        {
+          "name": "STM32L4 Boards (Lacuna)",
+          "architecture": "stm32l4",
+          "version": "0.0.28-lacuna",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/LacunaSpace/arduino-STM32L4/tree/lacuna"
+          },
+          "url": "https://github.com/LacunaSpace/arduino-STM32L4/archive/0.0.28-lacuna.zip",
+          "archiveFileName": "arduino-STM32L4-0.0.28-lacuna.zip",
+          "checksum": "MD5:9d9927ea74e47549233d79203fd9988e",
+          "size": "16902898",
+          "boards": [
+            {"name": "Lacuna-LS200"},
+            {"name": "Dragonfly-L476RE"},
+            {"name": "Dragonfly-L496RG"},
+            {"name": "Butterfly-L433CC"},
+            {"name": "Ladybug-L432KC"},
+            {"name": "NUCLEO-L432KC"},
+            {"name": "NUCLEO-L476RG"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            }
+          ]
+        }
+
+      ],
+      "tools":[
+      ]
+    }
+  ]
+}
