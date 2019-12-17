@@ -70,15 +70,15 @@
         {
           "name": "STM32L4 Boards (Lacuna)",
           "architecture": "stm32l4",
-          "version": "0.0.28-lacuna-3",
+          "version": "0.0.28-lacuna-4",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/LacunaSpace/arduino-STM32L4/tree/lacuna"
           },
-          "url": "https://github.com/LacunaSpace/arduino-STM32L4/archive/0.0.28-lacuna-3.tar.gz",
-          "archiveFileName": "arduino-STM32L4-0.0.28-lacuna-3.tar.gz",
-          "checksum": "MD5:21ce8ef521e75a13378ca0bd6406d6f7",
-          "size": "16561796",
+          "url": "https://github.com/LacunaSpace/arduino-STM32L4/archive/0.0.28-lacuna-4.tar.gz",
+          "archiveFileName": "arduino-STM32L4-0.0.28-lacuna-4.tar.gz",
+          "checksum": "MD5:8e3db4bf957d66e7db6b4baf962f0281",
+          "size": "16567118",
           "boards": [
             {"name": "Lacuna-LS200"},
             {"name": "Dragonfly-L476RE"},
