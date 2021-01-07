@@ -153,8 +153,36 @@
               "version": "4.8.3-2014q1"
             }
           ]
+        },
+        {
+          "name": "STM32L4 Boards (Lacuna)",
+          "architecture": "stm32l4",
+          "version": "0.0.28-lacuna-8",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/LacunaSpace/arduino-STM32L4/tree/lacuna"
+          },
+          "url": "https://github.com/LacunaSpace/arduino-STM32L4/archive/0.0.28-lacuna-8.tar.gz",
+          "archiveFileName": "arduino-STM32L4-0.0.28-lacuna-8.tar.gz",
+          "checksum": "MD5:a2cd96b1da20f73db79f430d0f3e5bb1",
+          "size": "16567364",
+          "boards": [
+            {"name": "Lacuna-LS200"},
+            {"name": "Dragonfly-L476RE"},
+            {"name": "Dragonfly-L496RG"},
+            {"name": "Butterfly-L433CC"},
+            {"name": "Ladybug-L432KC"},
+            {"name": "NUCLEO-L432KC"},
+            {"name": "NUCLEO-L476RG"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            }
+          ]
         }
-
       ],
       "tools":[
       ]
