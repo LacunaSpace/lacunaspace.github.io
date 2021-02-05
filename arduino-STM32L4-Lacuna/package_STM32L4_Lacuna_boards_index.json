@@ -194,7 +194,7 @@
           "url": "https://github.com/LacunaSpace/arduino-STM32L4/archive/0.0.28-lacuna-9.tar.gz",
           "archiveFileName": "arduino-STM32L4-0.0.28-lacuna-9.tar.gz",
           "checksum": "MD5:afbc5e91a2291b83d9a50b7b91251aa3",
-          "size": "16567364",
+          "size": "16567622",
           "boards": [
             {"name": "Lacuna-LS200"},
             {"name": "Dragonfly-L476RE"},
